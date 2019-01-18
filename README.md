@@ -5,7 +5,7 @@
 | **When**  | Fridays: 3:00pm - 5:00pm |
 | **Where** | <a href="https://www.public-health.uiowa.edu/find-the-college/" target="_blank">College of Public Health Informatics Center (N504)</a>|
 
-## <a href="https://doodle.com/poll/zbaxzhda86wxbkhg" target="_blank">SIGNUP HERE</a>
+## <a href="https://doodle.com/poll/8sushen4iiwxw3xa" target="_blank">SIGNUP HERE</a>
 
 ## What is Hacky Hour
 
