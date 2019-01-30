@@ -28,6 +28,28 @@ at Hacky Hour.
 
 No matter your experience level, check us out!
 
-## Resource
+## Code of Conduct
+
+We at hackyhour are dedicated towards providing an inclusive environment for everyone
+to learn and feel welcomed.
+If we are not holding up to that standard, please contact james-kent@uiowa.edu.
+We follow the [code of conduct put forth by brainhack](https://www.brainhack.org/code-of-conduct.html)
+
+## Other Tech Groups/Resources
+
+- [Women in Computing Sciences (WIC)](https://wics.org.uiowa.edu/)
+- [Students in Technology and Science (SiTS)](https://sits.org.uiowa.edu/)
+- [HackIowa](https://www.engineering.uiowa.edu/current-students/student-organizations/hackiowa)
+  - email james-kent@uiowa.edu if you want an invite to their discord channel to get all the latest news
+- [Iowa Social Science Research Center](http://ppc.uiowa.edu/isrc/workshops)
+- [Datascience Institute](https://uiowa.edu/datascience/)
+- [techcorridorio](https://www.meetup.com/techcorridorio/events/)
+- [UI3](https://informatics.uiowa.edu/events)
+- [Neuroimaging Workgroup](https://github.com/NeuroimagingUIowa/monthlyMeetingMinutes)
+- [Statistics Colloquia](https://stat.uiowa.edu/colloquia)
+- [High Performance Computing](https://hpc.uiowa.edu/)
+- [CLAS Linux Group](https://clas.uiowa.edu/linux/)
+
+## HackHour Inspiration
 
 - [HackyHourHandbook](https://github.com/amandamiotto/HackyHourHandbook)
