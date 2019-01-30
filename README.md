@@ -46,6 +46,7 @@ We follow the [code of conduct put forth by brainhack](https://www.brainhack.org
 - [techcorridorio](https://www.meetup.com/techcorridorio/events/)
 - [UI3](https://informatics.uiowa.edu/events)
 - [Neuroimaging Workgroup](https://github.com/NeuroimagingUIowa/monthlyMeetingMinutes)
+- [Library Data Services](http://guides.lib.uiowa.edu/data)
 - [Statistics Colloquia](https://stat.uiowa.edu/colloquia)
 - [High Performance Computing](https://hpc.uiowa.edu/)
 - [CLAS Linux Group](https://clas.uiowa.edu/linux/)
