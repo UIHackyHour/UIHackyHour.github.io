@@ -37,7 +37,7 @@ We follow the [code of conduct put forth by brainhack](https://www.brainhack.org
 
 ## Other Tech Groups/Resources
 
-- [Women in Computing Sciences (WIC)](https://wics.org.uiowa.edu/)
+- [Women in Computing Sciences (WICS)](https://wics.org.uiowa.edu/)
 - [Students in Technology and Science (SiTS)](https://sits.org.uiowa.edu/)
 - [HackIowa](https://www.engineering.uiowa.edu/current-students/student-organizations/hackiowa)
   - email james-kent@uiowa.edu if you want an invite to their discord channel to get all the latest news
