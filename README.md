@@ -37,6 +37,7 @@ We follow the [code of conduct put forth by brainhack](https://www.brainhack.org
 
 ## Other Tech Groups/Resources
 
+- [Statistics Outreach Center (SOC)](https://education.uiowa.edu/services/statistics-outreach-center-soc)
 - [Women in Computing Sciences (WICS)](https://wics.org.uiowa.edu/)
 - [Students in Technology and Science (SiTS)](https://sits.org.uiowa.edu/)
 - [HackIowa](https://www.engineering.uiowa.edu/current-students/student-organizations/hackiowa)
