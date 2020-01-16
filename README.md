@@ -3,7 +3,7 @@
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
 | **Who**   | [anyone with data](#anyone-is-welcome) |
 | **When**  | Fridays: 3:00pm - 5:00pm |
-| **Where** | <a href="https://www.public-health.uiowa.edu/find-the-college/" target="_blank">College of Public Health Informatics Center (N504)</a>|
+| **Where** | Basement level of psychological and brain sciences building (Currently looking for a permanent location)
 
 ## <a href="https://doodle.com/poll/v4vqina7tys6txbm" target="_blank">SIGNUP HERE</a>
 
