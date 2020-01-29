@@ -3,7 +3,7 @@
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
 | **Who**   | [anyone with data](#anyone-is-welcome) |
 | **When**  | Fridays: 3:00pm - 5:00pm |
-| **Where** | Basement level of psychological and brain sciences building (Currently looking for a permanent location)
+| **Where** | Basement level of the Psychological and Brain Sciences Building (PBSB). We are using the [tile classroom B60](https://classrooms.uiowa.edu/pbsb-b60) informally until we can get the space officially reserved.
 
 ## <a href="https://doodle.com/poll/v4vqina7tys6txbm" target="_blank">SIGNUP HERE</a>
 
@@ -32,7 +32,7 @@ No matter your experience level, check us out!
 
 ## Code of Conduct
 
-We at hackyhour are dedicated towards providing an inclusive environment for everyone
+We at Hacky Hour are dedicated towards providing an inclusive environment for everyone
 to learn and feel welcomed.
 If we are not holding up to that standard, please contact james-kent@uiowa.edu.
 We follow the [code of conduct put forth by brainhack](https://www.brainhack.org/code-of-conduct.html)
