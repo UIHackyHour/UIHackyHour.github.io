@@ -5,7 +5,7 @@
 | **When**  | Fridays: 3:00pm - 5:00pm |
 | **Where** | Basement level of the Psychological and Brain Sciences Building (PBSB). We are using the [tile classroom B60](https://classrooms.uiowa.edu/pbsb-b60) informally until we can get the space officially reserved.
 
-## <a href="https://doodle.com/poll/v4vqina7tys6txbm" target="_blank">SIGNUP HERE</a>
+## <a href="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" target="_blank">SIGNUP HERE</a>
 
 Or feel free to drop in if you do not wish to sign up.
 
