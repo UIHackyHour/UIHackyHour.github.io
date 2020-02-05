@@ -53,6 +53,7 @@ We follow the [code of conduct put forth by brainhack](https://www.brainhack.org
 - [Statistics Colloquia](https://stat.uiowa.edu/colloquia)
 - [High Performance Computing](https://hpc.uiowa.edu/)
 - [CLAS Linux Group](https://clas.uiowa.edu/linux/)
+- [Institute for Clinical and Translational Science: Informatics Core](https://icts.uiowa.edu/tissueprocurement/investigators/biomedical-informatics-core)
 
 ## HackHour Inspiration
 
