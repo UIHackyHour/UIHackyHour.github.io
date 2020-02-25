@@ -3,8 +3,8 @@
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
 | **Who**   | [anyone with data/desire to learn](#who-attends-hacky-hour) |
 | **When**  | Fridays: 3:00pm - 5:00pm |
-| **Where** | Basement level of the Psychological and Brain Sciences Building (PBSB). We are using the [tile classroom B60](https://classrooms.uiowa.edu/pbsb-b60) informally until we can get the space officially reserved.
-| **Why**   | [so many reasons](#why-attend-hacky-hour)
+| **Where** | Basement level of the Psychological and Brain Sciences Building (PBSB). We are using the [tile classroom B60](https://classrooms.uiowa.edu/pbsb-b60) informally until we can get the space officially reserved. |
+| **Why**   | [so many reasons](#why-attend-hacky-hour) |
 
 ## <a href="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" target="_blank">SIGNUP HERE</a>
 
