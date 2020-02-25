@@ -1,9 +1,10 @@
 # HELLO WORLD! <3
 
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
-| **Who**   | [anyone with data](#anyone-is-welcome) |
+| **Who**   | [anyone with data/desire to learn](#who-attends-hacky-hour) |
 | **When**  | Fridays: 3:00pm - 5:00pm |
 | **Where** | Basement level of the Psychological and Brain Sciences Building (PBSB). We are using the [tile classroom B60](https://classrooms.uiowa.edu/pbsb-b60) informally until we can get the space officially reserved.
+| **Why**   | [so many reasons](#why-attend-hacky-hour)
 
 ## <a href="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" target="_blank">SIGNUP HERE</a>
 
@@ -16,19 +17,46 @@ At the University of Iowa, Hacky Hour is an informal gathering of people
 to share knowledge and ask questions about their data and how to code
 analyses for their data.
 
-## Anyone is Welcome
+## Who attends Hacky Hour
 
-If you have data and questions, but don't know where/how to even start
-answering those question, you are welcome at Hacky Hour.
+Whether you're creating software, teaching coding, or collecting your first
+dataset, you are welcome at Hacky Hour.
+This is place to learn and share, so people of all experience levels are encouraged
+to come!
 
-If you have some experience with data analysis and coding, but have
-a couple quick questions, you are welcome at Hacky Hour.
+Here is a non-exhaustive list of the types of people that come to Hacky Hour.
 
-If you are very experienced, but want to connect with other people
-working on interesting problems (or start a project), you are welcome
-at Hacky Hour.
+- Undergraduates
+- Graduate Students
+- Postdoctoral Students
+- Professors
+- Librarians
+- Research Staff
 
-No matter your experience level, check us out!
+## Why attend Hacky Hour
+
+There are a lot of reasons to attend Hacky Hour, see if any of the listed scenarios
+resonate with you.
+
+- You saw a cool method in a paper and they even shared their code, but you
+do not know how to install/use the tool because it is not well documented.
+- You've inherited code from another graduate student who has since graduated
+and the code has mysteriously stopped working.
+- You are interested in learning how to code.
+- You want to automate some data entry, data analysis, or visualizations.
+- You have some code written and want to know how to version control the code so
+  you can keep track of all the changes being made.
+- You want to make the code more reproducible/sharable.
+- You want to see how other people are using code to help with their research.
+- You have an interest/desire to help others improve their own coding ability.
+- You want to find opportunities for collaboration.
+- You want a dedicated time/space to solve
+  that data analysis problem.
+- You want to commensurate with others that are also trying to learn how to code on their   own.
+- You wrote some code, but you are unsure how to test if it is "correct".
+
+This list is also non-exhaustive, so if you some data/code/questions,
+stop by and see if Hacky Hour helps.
 
 ## Code of Conduct
 
