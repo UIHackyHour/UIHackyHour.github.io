@@ -6,8 +6,7 @@
 | **Where** | Zoom! email james-kent@uiowa.edu for a zoom invite. |
 | **Why**   | [so many reasons](#why-attend-hacky-hour) |
 
-**We are partnering with [uibrainhack](https://brainhack-uiowa.github.io/uibrainhack/) from May 18th - July 10th to host python tutorials**
-## <a href="https://uiowa.qualtrics.com/jfe/form/SV_6ERTvtqEXnbSVcV?Q_CHL=social&Q_SocialSource=hackyhour" target="_blank">SIGNUP HERE</a>
+## <a href="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" target="_blank">SIGNUP HERE</a>
 
 Or feel free to drop in if you do not wish to sign up.
 
