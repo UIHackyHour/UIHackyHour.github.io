@@ -129,3 +129,7 @@ MMMMMMMMMMMMMMMMWO,  'xc    cK0c.   .dKKKKO;    ,O0l.   :0KXXXXXNMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMWd.    .      ..       .....      ..      .......xMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMN:                                              .dMMMMMMMMMMMMMM
 ```
+
+## Awesome new links
+
+- [nyan cat website](https://jdkent.github.io/nyancat/)
