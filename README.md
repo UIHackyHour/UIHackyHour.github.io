@@ -6,7 +6,7 @@
 | **Where** | Zoom! email kerry-tarrant@uiowa.edu or marco-pipoly@uiowa.edu for a zoom invite. |
 | **Why**   | [so many reasons](#why-attend-hacky-hour) |
 
-<iframe src="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" height="600px" width="800px"></iframe>
+<iframe src="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" height="600px" width="100%"></iframe>
 
 Or feel free to drop in if you do not wish to sign up.
 
