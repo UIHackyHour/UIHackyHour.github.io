@@ -52,7 +52,7 @@ and the code has mysteriously stopped working.
 - You want to find opportunities for collaboration.
 - You want a dedicated time/space to solve
   that data analysis problem.
-- You want to commensurate with others that are also trying to learn how to code on their   own.
+- You want to commensurate with others that are also trying to learn how to code on their own.
 - You wrote some code, but you are unsure how to test if it is "correct".
 
 This list is also non-exhaustive, so if you some data/code/questions,
@@ -62,8 +62,8 @@ stop by and see if Hacky Hour helps.
 
 We at Hacky Hour are dedicated towards providing an inclusive environment for everyone
 to learn and feel welcomed.
-If we are not holding up to that standard, please contact james-kent@uiowa.edu.
-We follow the [code of conduct put forth by brainhack](https://www.brainhack.org/code-of-conduct.html)
+If we are not holding up to that standard, please contact kerry-tarrant@uiowa.edu or marco-pipoly@uiowa.edu.
+We follow the [code of conduct put forth by Brainhack](https://www.brainhack.org/code-of-conduct.html)
 
 ## Other Tech Groups/Resources
 
