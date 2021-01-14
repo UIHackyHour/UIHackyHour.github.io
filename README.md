@@ -2,8 +2,8 @@
 
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
 | **Who**   | [anyone with data/desire to learn](#who-attends-hacky-hour) |
-| **When**  | Fridays: 3:00pm - 5:00pm |
-| **Where** | Zoom! email kerry-tarrant@uiowa.edu or marco-pipoly@uiowa.edu for a zoom invite. |
+| **When**  | Tuesdays: 10:30am - 11:30am |
+| **Where** | Zoom! email kerry-tarrant@uiowa.edu or marco-pipoly@uiowa.edu for a Zoom invite. |
 | **Why**   | [so many reasons](#why-attend-hacky-hour) |
 
 <iframe src="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" height="600px" width="100%"></iframe>
@@ -63,7 +63,8 @@ stop by and see if Hacky Hour helps.
 We at Hacky Hour are dedicated towards providing an inclusive environment for everyone
 to learn and feel welcomed.
 If we are not holding up to that standard, please contact kerry-tarrant@uiowa.edu or marco-pipoly@uiowa.edu.
-We follow the [code of conduct put forth by Brainhack](https://www.brainhack.org/code-of-conduct.html)
+We follow the [code of conduct put forth by Brainhack](https://www.brainhack.org/code-of-conduct.html).
+Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is available on the University of Iowa's Engage site](https://uiowa.campuslabs.com/engage/organization/brainhack/).
 
 ## Other Tech Groups/Resources
 
