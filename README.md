@@ -2,7 +2,7 @@
 
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
 | **Who**   | [anyone with data/desire to learn](#who-attends-hacky-hour) |
-| **When**  | TBA. [Help us find a time that works!](https://forms.office.com/Pages/ResponsePage.aspx?id=lUXEG7qaw0-47HuUpVhv3CTapNcc0IJJteVRvyQNUL5UMVJaTUhSQ0EzRDNOR1o1WFdTWUtWV0JJNS4u) |
+| **When**  | Wednesdays 3:00 PM to 4:00 PM |
 | **Where** | Zoom! email kerry-tarrant@uiowa.edu or marco-pipoly@uiowa.edu for a Zoom invite. |
 | **Why**   | [so many reasons](#why-attend-hacky-hour) |
 
