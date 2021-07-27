@@ -10,6 +10,9 @@
 
 Or feel free to drop in if you do not wish to sign up.
 
+## Zoom link
+<iframe src="https://uiowa.qualtrics.com/jfe/form/SV_bCTtwQz5mgTgg3I" height="600px" width="100%"></iframe>
+
 ## What is Hacky Hour
 
 Hacky Hour means different things at different Universities/Institutes.
