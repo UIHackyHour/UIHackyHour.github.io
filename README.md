@@ -2,8 +2,8 @@
 
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
 | **Who**   | [anyone with data/desire to learn](#who-attends-hacky-hour) |
-| **When**  | TBD |
-| **Where** | [Zoom!](#zoom-link) email kerry-tarrant@uiowa.edu |
+| **When**  | 1:30 - 2:30 PM on Thursdays |
+| **Where** | 101 SLP or [Zoom](#zoom-link) email icbh@team.uiowa.edu |
 | **Why**   | [so many reasons](#why-attend-hacky-hour) |
 
 <iframe src="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" height="600px" width="100%"></iframe>
