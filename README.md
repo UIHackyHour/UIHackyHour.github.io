@@ -55,7 +55,7 @@ and the code has mysteriously stopped working.
 - You want to commensurate with others that are also trying to learn how to code on their own.
 - You wrote some code, but you are unsure how to test if it is "correct".
 
-This list is also non-exhaustive, so if you some data/code/questions,
+This list is also non-exhaustive, so if you have some data/code/questions,
 stop by and see if Hacky Hour helps.
 
 ## Code of Conduct
@@ -72,7 +72,6 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
 - [Women in Computing Sciences (WICS)](https://wics.org.uiowa.edu/)
 - [Students in Technology and Science (SiTS)](https://sits.org.uiowa.edu/)
 - [HackIowa](https://www.engineering.uiowa.edu/current-students/student-organizations/hackiowa)
-  - email james-kent@uiowa.edu if you want an invite to their discord channel to get all the latest news
 - [Iowa Social Science Research Center](http://ppc.uiowa.edu/isrc/workshops)
 - [Datascience Institute](https://uiowa.edu/datascience/)
 - [techcorridorio](https://www.meetup.com/techcorridorio/events/)
@@ -90,6 +89,50 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
 
 ## Zoom Link
 <iframe src="https://uiowa.qualtrics.com/jfe/form/SV_bCTtwQz5mgTgg3I" height="550px" width="100%"></iframe>
+
+
+## More Helpful Resources
+### Free, open-source texts
+* MATLAB
+  * Programming with MATLAB (Software Carpentry): http://swcarpentry.github.io/matlab-novice-inflammation/
+* Python
+  * Programming with Python (Software Carpentry): https://swcarpentry.github.io/python-novice-inflammation/index.html
+* R
+  * Programming with R (Software Carpentry): https://swcarpentry.github.io/r-novice-inflammation/index.html
+* Version Control
+  * Version Control with Git (Software Carpentry): https://swcarpentry.github.io/git-novice/index.html
+* General 
+  * MIT online course "The Missing Semester of Your CS Education": https://missing.csail.mit.edu/ 
+  * Introduction to Programming in the Biological Sciences Bootcamp: https://justinbois.github.io/bootcamp/2022/
+* Neuroimaging 
+  * Neurohackademy Courses: https://neurohackademy.org/neurohack_year/2022/ 
+  * Neuromatch Academy Courses: https://academy.neuromatch.io/courses
+
+### Tutorial notebooks/files
+* MATLAB
+  * MATLAB fundamentals and EEG Analysis (Jax Skye, Marco Pipoly, Gail Harmata, Ethan Rooke, Trevor Cline, Kerry Tarrant): https://brainhack-uiowa.github.io/uibrainhack2021/
+  * Matlab Workshop Fall 2021 (Dr. Victoria A. Müller Ewald): https://uihackyhour.github.io/matlabfall2021/
+* Python
+  * Python fundamentals and some neuroimaging: https://brainhack-uiowa.github.io/uibrainhack/
+  * Transcription of Al Sweigart's Automate the Boring Stuff With Python (Trevor L. Cline and Kerry Tarrant): https://github.com/UIHackyHour/AutomateTheBoringSweigart
+
+### Other
+* Python resources: 
+	* Learn Python - Full Course for Beginners: https://www.youtube.com/watch?v=rfscVS0vtbw 
+	* The official Python tutorial: https://docs.python.org/3/tutorial/ 
+	* Python tutorials: https://www.learnpython.org/en/Welcome 
+	* Pandas tutorials: https://pandas.pydata.org/docs/getting_started/index.html#getting-started 
+	* Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
+* R resources: 
+	* Book: “Cookbook for R”: good to start with: http://www.cookbook-r.com/
+	* Learn R at the Console (interactively): the swirl package: once you have installed R and can install packages, the "swirl" package is an interactive way to learn R: https://swirlstats.com/ 
+	* Book: “R for Data Science”: learn to use R for data science: https://r4ds.had.co.nz/
+	* Article: “The Layered Grammar of Graphics: good to learn more about graphing in R": http://vita.had.co.nz/papers/layered-grammar.pdf 
+	* plotly examples: https://plotly.com/r/
+* Other data analytics resources, free for UI members:
+	* LinkedIn Learning: on-demand online training library: https://its.uiowa.edu/linkedin-learning 
+	* The Iowa Social Science Research Center’s workshops: https://ppc.uiowa.edu/research-support/workshops
+
 
 ```
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMk;.;KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
