@@ -1,10 +1,12 @@
 # HELLO WORLD! <3
 
-| **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour) |
-| **Who**   | [anyone with data/desire to learn](#who-attends-hacky-hour) |
-| **When**  | 1:30 - 2:30 PM on Thursdays |
-| **Where** | 101 SLP or [Zoom](#zoom-link) email icbh@team.uiowa.edu |
-| **Why**   | [so many reasons](#why-attend-hacky-hour) |
+| **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour). |
+| **Who**   | [Anyone with data/desire to learn](#who-attends-hacky-hour). |
+| **When**  | 1:30 - 2:30 PM on Thursdays. |
+| **Where** | 101 SLP (or [Zoom](#zoom-link) by emailing [icbh@team.uiowa.edu](icbh@team.uiowa.edu)). |
+| **Why**   | [So many reasons](#why-attend-hacky-hour). |
+
+## Sign-in (Optional)
 
 <iframe src="https://uiowa.qualtrics.com/jfe/form/SV_3R8u8CyDy5nj9PL?Q_CHL=social&Q_SocialSource=website" height="600px" width="100%"></iframe>
 
@@ -94,44 +96,44 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
 ## More Helpful Resources
 ### Free, open-source texts
 * MATLAB
-  * Programming with MATLAB (Software Carpentry): http://swcarpentry.github.io/matlab-novice-inflammation/
+  * Programming with MATLAB (Software Carpentry): [http://swcarpentry.github.io/matlab-novice-inflammation/](http://swcarpentry.github.io/matlab-novice-inflammation/)
 * Python
-  * Programming with Python (Software Carpentry): https://swcarpentry.github.io/python-novice-inflammation/index.html
+  * Programming with Python (Software Carpentry): [https://swcarpentry.github.io/python-novice-inflammation/index.html](https://swcarpentry.github.io/python-novice-inflammation/index.html)
 * R
-  * Programming with R (Software Carpentry): https://swcarpentry.github.io/r-novice-inflammation/index.html
+  * Programming with R (Software Carpentry): [https://swcarpentry.github.io/r-novice-inflammation/index.html](https://swcarpentry.github.io/r-novice-inflammation/index.html)
 * Version Control
-  * Version Control with Git (Software Carpentry): https://swcarpentry.github.io/git-novice/index.html
+  * Version Control with Git (Software Carpentry): [https://swcarpentry.github.io/git-novice/index.html](https://swcarpentry.github.io/git-novice/index.html)
 * General 
-  * MIT online course "The Missing Semester of Your CS Education": https://missing.csail.mit.edu/ 
-  * Introduction to Programming in the Biological Sciences Bootcamp: https://justinbois.github.io/bootcamp/2022/
+  * MIT online course "The Missing Semester of Your CS Education": [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/) 
+  * Introduction to Programming in the Biological Sciences Bootcamp: [https://justinbois.github.io/bootcamp/2022/](https://justinbois.github.io/bootcamp/2022/)
 * Neuroimaging 
-  * Neurohackademy Courses: https://neurohackademy.org/neurohack_year/2022/ 
-  * Neuromatch Academy Courses: https://academy.neuromatch.io/courses
+  * Neurohackademy Courses: [https://neurohackademy.org/neurohack_year/2022/](https://neurohackademy.org/neurohack_year/2022/ ) 
+  * Neuromatch Academy Courses: [https://academy.neuromatch.io/courses](https://academy.neuromatch.io/courses)
 
 ### Tutorial notebooks/files
 * MATLAB
-  * MATLAB fundamentals and EEG Analysis (Jax Skye, Marco Pipoly, Gail Harmata, Ethan Rooke, Trevor Cline, Kerry Tarrant): https://brainhack-uiowa.github.io/uibrainhack2021/
-  * Matlab Workshop Fall 2021 (Dr. Victoria A. Müller Ewald): https://uihackyhour.github.io/matlabfall2021/
+  * MATLAB fundamentals and EEG Analysis (Jax Skye, Marco Pipoly, Gail Harmata, Ethan Rooke, Trevor Cline, Kerry Tarrant): [https://brainhack-uiowa.github.io/uibrainhack2021/](https://brainhack-uiowa.github.io/uibrainhack2021/)
+  * Matlab Workshop Fall 2021 (Dr. Victoria A. Müller Ewald): [https://uihackyhour.github.io/matlabfall2021/](https://uihackyhour.github.io/matlabfall2021/)
 * Python
-  * Python fundamentals and some neuroimaging: https://brainhack-uiowa.github.io/uibrainhack/
-  * Transcription of Al Sweigart's Automate the Boring Stuff With Python (Trevor L. Cline and Kerry Tarrant): https://github.com/UIHackyHour/AutomateTheBoringSweigart
+  * Python fundamentals and some neuroimaging: [https://brainhack-uiowa.github.io/uibrainhack/](https://brainhack-uiowa.github.io/uibrainhack/)
+  * Transcription of Al Sweigart's Automate the Boring Stuff With Python (Trevor L. Cline and Kerry Tarrant): [https://github.com/UIHackyHour/AutomateTheBoringSweigart](https://github.com/UIHackyHour/AutomateTheBoringSweigart)
 
 ### Other
 * Python resources: 
-	* Learn Python - Full Course for Beginners: https://www.youtube.com/watch?v=rfscVS0vtbw 
-	* The official Python tutorial: https://docs.python.org/3/tutorial/ 
-	* Python tutorials: https://www.learnpython.org/en/Welcome 
-	* Pandas tutorials: https://pandas.pydata.org/docs/getting_started/index.html#getting-started 
-	* Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
+	* Learn Python - Full Course for Beginners: [https://www.youtube.com/watch?v=rfscVS0vtbw(]https://www.youtube.com/watch?v=rfscVS0vtbw) 
+	* The official Python tutorial: [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/) 
+	* Python tutorials: [https://www.learnpython.org/en/Welcome](https://www.learnpython.org/en/Welcome)
+	* Pandas tutorials: [https://pandas.pydata.org/docs/getting_started/index.html#getting-started](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
+	* Python Data Science Handbook: [https://jakevdp.github.io/PythonDataScienceHandbook/](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * R resources: 
-	* Book: “Cookbook for R”: good to start with: http://www.cookbook-r.com/
-	* Learn R at the Console (interactively): the swirl package: once you have installed R and can install packages, the "swirl" package is an interactive way to learn R: https://swirlstats.com/ 
-	* Book: “R for Data Science”: learn to use R for data science: https://r4ds.had.co.nz/
-	* Article: “The Layered Grammar of Graphics: good to learn more about graphing in R": http://vita.had.co.nz/papers/layered-grammar.pdf 
-	* plotly examples: https://plotly.com/r/
+	* Book: “Cookbook for R”: good to start with: [http://www.cookbook-r.com/](http://www.cookbook-r.com/)
+	* Learn R at the Console (interactively): the swirl package: once you have installed R and can install packages, the "swirl" package is an interactive way to learn R: [https://swirlstats.com/](https://swirlstats.com/)
+	* Book: “R for Data Science”: learn to use R for data science: [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
+	* Article: “The Layered Grammar of Graphics: good to learn more about graphing in R": [http://vita.had.co.nz/papers/layered-grammar.pdf](http://vita.had.co.nz/papers/layered-grammar.pdf) 
+	* plotly examples: [https://plotly.com/r/](https://plotly.com/r/)
 * Other data analytics resources, free for UI members:
-	* LinkedIn Learning: on-demand online training library: https://its.uiowa.edu/linkedin-learning 
-	* The Iowa Social Science Research Center’s workshops: https://ppc.uiowa.edu/research-support/workshops
+	* LinkedIn Learning: on-demand online training library: [https://its.uiowa.edu/linkedin-learning](https://its.uiowa.edu/linkedin-learning) 
+	* The Iowa Social Science Research Center’s workshops: [https://ppc.uiowa.edu/research-support/workshops](https://ppc.uiowa.edu/research-support/workshops)
 
 
 ```
