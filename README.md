@@ -118,7 +118,7 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
   * Python fundamentals and some neuroimaging: [https://brainhack-uiowa.github.io/uibrainhack/](https://brainhack-uiowa.github.io/uibrainhack/)
   * Transcription of Al Sweigart's Automate the Boring Stuff With Python (Trevor L. Cline and Kerry Tarrant): [https://github.com/UIHackyHour/AutomateTheBoringSweigart](https://github.com/UIHackyHour/AutomateTheBoringSweigart)
 
-### Other
+### Resources recommended by [ITS Research Services](https://hpc.uiowa.edu/)
 * Python resources: 
 	* Learn Python - Full Course for Beginners: [https://www.youtube.com/watch?v=rfscVS0vtbw(]https://www.youtube.com/watch?v=rfscVS0vtbw) 
 	* The official Python tutorial: [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/) 
@@ -131,6 +131,8 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
 	* Book: “R for Data Science”: learn to use R for data science: [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 	* Article: “The Layered Grammar of Graphics: good to learn more about graphing in R": [http://vita.had.co.nz/papers/layered-grammar.pdf](http://vita.had.co.nz/papers/layered-grammar.pdf) 
 	* plotly examples: [https://plotly.com/r/](https://plotly.com/r/)
+* Jupyter resources
+	* Try Jupyter for free in your browser without installing anything. Click on “Jupyter Notebook” under the “Applications” section to try Jupyter Notebook and see tutorials for Jupyter Notebook: [https://jupyter.org/try](https://jupyter.org/try)
 * Other data analytics resources, free for UI members:
 	* LinkedIn Learning: on-demand online training library: [https://its.uiowa.edu/linkedin-learning](https://its.uiowa.edu/linkedin-learning) 
 	* The Iowa Social Science Research Center’s workshops: [https://ppc.uiowa.edu/research-support/workshops](https://ppc.uiowa.edu/research-support/workshops)
