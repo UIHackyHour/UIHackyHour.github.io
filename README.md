@@ -2,7 +2,7 @@
 
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour). |
 | **Who**   | [Anyone with data/desire to learn](#who-attends-hacky-hour). |
-| **When**  | 8:30 - 9:30 PM on Thursdays. |
+| **When**  | 8:30 - 9:30 AM on Thursdays. |
 | **Where** | Tru Coffee (or [Zoom](#zoom-link) by emailing [icbh@team.uiowa.edu](icbh@team.uiowa.edu)). |
 | **Why**   | [So many reasons](#why-attend-hacky-hour). |
 
