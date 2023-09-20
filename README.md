@@ -89,8 +89,10 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
 
 - [HackyHourHandbook](https://github.com/amandamiotto/HackyHourHandbook)
 
+<!-- 
 ## Zoom Link
 <iframe src="https://uiowa.qualtrics.com/jfe/form/SV_bCTtwQz5mgTgg3I" height="550px" width="100%"></iframe>
+-->
 
 
 ## More Helpful Resources
