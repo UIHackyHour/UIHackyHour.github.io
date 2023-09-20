@@ -122,7 +122,7 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
 
 ### Resources recommended by [ITS Research Services](https://hpc.uiowa.edu/)
 * Python resources: 
-	* Learn Python - Full Course for Beginners: [https://www.youtube.com/watch?v=rfscVS0vtbw(]https://www.youtube.com/watch?v=rfscVS0vtbw) 
+	* Learn Python - Full Course for Beginners: [https://www.youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=rfscVS0vtbw) 
 	* The official Python tutorial: [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/) 
 	* Python tutorials: [https://www.learnpython.org/en/Welcome](https://www.learnpython.org/en/Welcome)
 	* Pandas tutorials: [https://pandas.pydata.org/docs/getting_started/index.html#getting-started](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
