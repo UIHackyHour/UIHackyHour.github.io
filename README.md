@@ -64,7 +64,7 @@ stop by and see if Hacky Hour helps.
 
 We at Hacky Hour are dedicated towards providing an inclusive environment for everyone
 to learn and feel welcomed.
-If we are not holding up to that standard, please contact kerry-tarrant@uiowa.edu or marco-pipoly@uiowa.edu.
+If we are not holding up to that standard, please contact icbh@team.uiowa.edu.
 We follow the [code of conduct put forth by Brainhack](https://www.brainhack.org/code-of-conduct.html).
 Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is available on the University of Iowa's Engage site](https://uiowa.campuslabs.com/engage/organization/brainhack/).
 
