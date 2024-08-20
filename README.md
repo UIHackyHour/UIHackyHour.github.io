@@ -2,8 +2,8 @@
 
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour). |
 | **Who**   | [Anyone with data/desire to learn](#who-attends-hacky-hour). |
-| **When**  | 4:30 - 5:30 PM on 9/21, 10/5, 10/19, 11/2, 11/16, 11/30. |
-| **Where** | The Green House (505 E Washington St). |
+| **When**  | TBD |
+| **Where** | TBD |
 | **Why**   | [So many reasons](#why-attend-hacky-hour). |
 
 ## Sign-in (Optional)
