@@ -94,9 +94,9 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
 <iframe src="https://uiowa.qualtrics.com/jfe/form/SV_bCTtwQz5mgTgg3I" height="550px" width="100%"></iframe>
 -->
 
+---
 
-## More Helpful Resources
-### Free, open-source texts
+## Free, open-source texts
 * MATLAB
   * Programming with MATLAB (Software Carpentry): [http://swcarpentry.github.io/matlab-novice-inflammation/](http://swcarpentry.github.io/matlab-novice-inflammation/)
 * Python
@@ -112,7 +112,7 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
   * Neurohackademy Courses: [https://neurohackademy.org/neurohack_year/2022/](https://neurohackademy.org/neurohack_year/2022/ ) 
   * Neuromatch Academy Courses: [https://academy.neuromatch.io/courses](https://academy.neuromatch.io/courses)
 
-### Tutorial notebooks/files
+## Tutorial notebooks/files
 * MATLAB
   * MATLAB fundamentals and EEG Analysis (Jax Skye, Marco Pipoly, Gail Harmata, Ethan Rooke, Trevor Cline, Kerry Tarrant): [https://brainhack-uiowa.github.io/uibrainhack2021/](https://brainhack-uiowa.github.io/uibrainhack2021/)
   * Matlab Workshop Fall 2021 (Dr. Victoria A. Müller Ewald): [https://uihackyhour.github.io/matlabfall2021/](https://uihackyhour.github.io/matlabfall2021/)
@@ -120,7 +120,7 @@ Hacky Hour adheres to the constitution of Iowa City BrainHack. [A copy is availa
   * Python fundamentals and some neuroimaging: [https://brainhack-uiowa.github.io/uibrainhack/](https://brainhack-uiowa.github.io/uibrainhack/)
   * Transcription of Al Sweigart's Automate the Boring Stuff With Python (Trevor L. Cline and Kerry Tarrant): [https://github.com/UIHackyHour/AutomateTheBoringSweigart](https://github.com/UIHackyHour/AutomateTheBoringSweigart)
 
-### Resources recommended by [ITS Research Services](https://hpc.uiowa.edu/)
+## Resources recommended by [ITS Research Services](https://hpc.uiowa.edu/)
 * Python resources: 
 	* Learn Python - Full Course for Beginners: [https://www.youtube.com/watch?v=rfscVS0vtbw](https://www.youtube.com/watch?v=rfscVS0vtbw) 
 	* The official Python tutorial: [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/) 
