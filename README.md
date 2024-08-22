@@ -2,8 +2,8 @@
 
 | **What**  | [A place to ask questions about code/data (and hack)](#what-is-hacky-hour). |
 | **Who**   | [Anyone with data/desire to learn](#who-attends-hacky-hour). |
-| **When**  | TBD |
-| **Where** | TBD |
+| **When**  | 4-5 PM on Wednesdays: 9/4, 9/18, 10/2, 10/16, 10/30, 11/13, 12/4, 12/11 |
+| **Where** | [The Green House, 505 E Washington St, Iowa City, IA 52240](https://maps.app.goo.gl/eWBvtjXWr4ptcipCA) |
 | **Why**   | [So many reasons](#why-attend-hacky-hour). |
 
 ## Sign-in (Optional)
